@@ -1,0 +1,39 @@
+body{
+
+    background-color: aliceblue;
+    
+}
+h1{
+    background-color: rgb(218, 65, 42);
+    text-align: center;
+    color: aliceblue;
+    height: 60px;
+
+}
+h2{
+    color: rgb(225, 78, 25);
+    text-align: center;
+
+}
+h4{
+    padding-left: 40%;
+}
+ul{
+  padding-left: 40%;
+}
+ol{
+    padding-left: 40%;
+}
+h5{
+    padding-top: 2%;
+    color: white;
+    font-size: 150%;
+}
+footer{
+    background-color: rgb(206, 84, 14);
+    text-align: center;
+    height: 80px;
+    color: aliceblue;
+    font-size: medium;
+    
+}

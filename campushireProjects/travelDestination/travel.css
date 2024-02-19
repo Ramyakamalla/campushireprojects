@@ -1,0 +1,57 @@
+
+h1{
+    height: 70px;
+    background-color: rgb(55, 55, 201);
+    text-align: center;
+    color: aliceblue;
+    padding-top: 2%;
+    
+}
+
+h2{
+    color:  rgb(55, 55, 201);
+    
+    background-color: azure;
+    text-align: center;
+    padding-left: 5%;
+}
+div{
+    width: 100%;
+    background-color: rgb(134, 233, 233);
+    padding-left: 0%;
+    
+}
+ul{
+    background-color: rgb(163, 244, 244);
+    font-size:150% ;
+
+}
+    place{
+        color: rgb(195, 6, 63);
+        font-weight: bold;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: oblique;
+    }
+    d{
+        color: rgb(170, 14, 242);
+    }
+    a{
+        color: rgb(9, 46, 231);
+    }
+    
+p{
+    background-color: rgb(106, 236, 236);
+    font-size: 150%;
+    padding-left: 25%;
+    
+
+}
+
+footer{
+    background-color:rgb(55, 55, 201); 
+    color: aliceblue;
+    height: 50px;
+    font-size: 150%;
+    padding-top: 0%;
+    padding-left: 35%;
+}

@@ -1,0 +1,26 @@
+
+h1,h2{
+ background-color: pink;   
+ color:blue;
+
+}
+ul,table{
+    font-size: 150%;
+    
+    background-color: bisque;
+}
+    
+
+h4{
+    font-style: italic;
+    font-size: 130%;
+
+}
+p{
+    font-size: 150%;
+    background-color: bisque;
+
+}
+table{
+    width: 100%;
+}
